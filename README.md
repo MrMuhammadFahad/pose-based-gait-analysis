@@ -4,7 +4,7 @@ This project implements a simple yet structured gait analysis pipeline using 2D 
 
 ---
 
-## 🎯 Objective
+## Objective
 
 - Extract human pose keypoints from a walking video
 - Compute simple gait-related features
@@ -14,7 +14,7 @@ The focus is on feature extraction rather than complex biomechanical modeling.
 
 ---
 
-## 🧠 Methodology
+## Methodology
 
 The pipeline consists of:
 
@@ -26,7 +26,7 @@ The pipeline consists of:
 
 ---
 
-## 📊 Extracted Features
+## Extracted Features
 
 The final gait feature vector includes:
 
